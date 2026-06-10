@@ -8,7 +8,7 @@ Self-taught offensive security guy from Pakistan. No degree, no fancy institute 
 
 ## Some numbers
 
-- **TryHackMe** — top 2% globally done → [profile](https://tryhackme.com/p/Rehman0g0)
+- **TryHackMe** — top 1% globally done → [profile](https://tryhackme.com/p/Rehman0g0)
 - **PicoCTF** — 61+ labs solved
 - **Hackviser** — Certified CAPTCHA (solid platform for beginners, recently cleared this)
 - **Intigriti & bugcrowd** — actively hunting when not doing labs
