@@ -60,7 +60,7 @@ Self-taught offensive security guy from Pakistan. No degree, no fancy institute 
 
 ## Certifications
 
-- **Hackviser Certified CAPTCHA** ✅
+- **Hackviser Certified CAPT** ✅
 
 ---
 
